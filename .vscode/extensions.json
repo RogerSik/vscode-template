@@ -1,0 +1,17 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=827846
+  // for the documentation about the extensions.json format
+  "recommendations": [
+    // Integrates ShellCheck into VS Code, a linter for Shell scripts.
+    "timonwong.shellcheck",
+    // EditorConfig Support for Visual Studio Code
+    "EditorConfig.EditorConfig",
+    // Code formatter using prettier
+    "esbenp.prettier-vscode",
+    // Material Design Icons for Visual Studio Code
+    "PKief.material-icon-theme",
+    // Generate formatted tables for markdown
+    "JayFiDev.tablegenerator",
+    "hashicorp.terraform"
+  ]
+}
